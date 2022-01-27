@@ -1,0 +1,39 @@
+.Menu-item {
+  padding: 30px;
+}
+.Menu-info {
+  width: 25rem;
+   
+    width: 25rem;
+    border: 2px solid black;
+    
+    height: 28rem;
+    border-radius: 8px;
+  }
+
+.Menu-image {
+  width: 25rem;
+}
+.context{
+  padding-left: 15px;
+}
+
+.Menu-heading{
+  margin: 5px;
+  color: grey;
+}
+.Menu-button{
+
+  
+    
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: #8383ef;
+    padding: 10px;
+    border: 0.8px solid #8383ef;
+    border-radius: 8px;
+  }
+  
+    
+    
+

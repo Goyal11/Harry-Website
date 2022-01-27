@@ -1,0 +1,141 @@
+span{
+    color: blue;
+}
+
+.hero{
+    padding: 20px;
+    display: flex;
+    
+}
+
+
+    
+
+.butt{
+    display: flex;
+    border-radius: 8px;
+}
+    
+    .butt > button{
+        padding: 10px;
+        margin-left: 8px;
+
+
+    }
+    .col{
+        background-color: black;
+        color: white;
+        border-radius: 8px;
+    }
+
+
+.image{
+
+    height: 350px;
+}
+/*Content-box*/
+.head{
+    color: grey;
+    margin: 2px;
+}
+
+.img-container>img {
+    width:25rem;
+    
+}
+.container{
+    width: 25rem;
+    height: 32rem;
+    border: 2px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+    .hello{
+        padding: 20px;
+    }
+
+    .title{
+        text-align: center;
+    }
+/* .para-container , .text-container , .button-primary{
+    padding: 15px;
+} */
+
+.contain{
+    padding:15px;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 2
+}
+
+.content-box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-primary > button
+{
+    background-color: purple;
+    font-size: 1rem;
+    border: 2px solid purple;
+    border-radius: 10px;
+    color: white;
+}
+
+ a {
+    text-decoration: none;
+}
+/*review*/
+.review{
+    padding: 20px;
+}
+
+.review-box{
+   width: 39rem; 
+   border: 2px solid whitesmoke;
+   border-radius: 5px;
+   background-color: whitesmoke;
+}
+    .name{
+        margin-bottom: 2px;
+        padding-left: 50px;
+
+
+    }
+    .job{
+        margin-top: 2px;
+        padding-left: 50px;
+        color: silver;
+    }
+
+.review-content{
+    padding: 20px;
+}
+.review-section{
+    display: flex;
+    justify-content: space-around;
+}
+.foo{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-left {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+}
+.footer-left > * {
+    width: max-content;
+}
+.footer-website-name {
+    border-right: 2px solid gray;
+    margin-right: 1rem;
+    padding-right: 1rem;
+}
+    
